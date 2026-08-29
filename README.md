@@ -46,3 +46,17 @@ Low / Medium / High Risk
         |
         v
 Investigation Prioritization
+
+## Benchmark Results
+
+ReturnShield was evaluated on a controlled synthetic benchmark of 10,000 records using a 75/25 train-test split and a 5% positive abuse-ring rate.
+
+| Metric | Result |
+|---|---:|
+| Accuracy | 89.64% |
+| Precision | 23.20% |
+| Recall | 46.40% |
+| F1 Score | 30.93% |
+| ROC-AUC | 79.21% |
+
+**Important:** These results are from synthetic data and should not be interpreted as performance on real Razorpay or merchant data.
