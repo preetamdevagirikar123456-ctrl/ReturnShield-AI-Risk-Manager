@@ -25,6 +25,7 @@ The system is designed as a decision-support tool, not an automatic mechanism fo
 
 ## Architecture
 
+![ReturnShield Architecture](architecture.png)
 ```text
 Synthetic Return Data
         |
